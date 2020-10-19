@@ -1,2 +1,2 @@
 
-- [Como cambiar el mensaje de un commit](/cambiar\ mensaje\ de\ commits.md)
+- [Como cambiar el mensaje de un commit](docs/cambio-mensaje-commits.md)
