@@ -70,11 +70,11 @@ The rebase command rewrites the commit history, and it is strongly discouraged t
 
 5. For each chosen commit, a new text editor window will open. Change the commit message, save the file, and close the editor.
 
->fix: update dependency json5 to ^2.1.1
+    >fix: update dependency json5 to ^2.1.1
 
 6. Force push the changes to the remote repository:
 
-> git push --force branch-name
+    > git push --force branch-name
 
 ### Conclusion
 To change the most recent commit message, use the ``git commit --amend command``. To change an older or multiple commit messages, use ``git rebase -i HEAD~N``.
@@ -82,3 +82,6 @@ To change the most recent commit message, use the ``git commit --amend command``
 Don’t amend pushed commits as it may potentially cause a lot of problems to your colleagues.
 
 If you hit a problem or have feedback, leave a comment below.
+
+
+##### Fuente: https://linuxize.com/post/change-git-commit-message/
