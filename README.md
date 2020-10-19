@@ -6,9 +6,10 @@ Repositorio para agrupar comandos, tutoriales y recursos varios relacionados con
 Desde aquí se puede acceder a las diferentes secciones:
 
 
-- <div><a href="/GitHub">GIT y GITHUB <img src="GitHub/img/logo.png#right" width="200"></a></div>
+- <div><a href="/GitHub">GIT y GITHUB</a><img src="GitHub/img/logo.png" width="200"></div>
 
 
+- <div><a href="/VSCode">VISUAL STUDIO CODE</a><img src="VSCode/img/logo.png" width="200"></div>
 
-- <div><a href="/VSCode">VISUAL STUDIO CODE <img src="VSCode/img/logo.png#right" width="200"></div>
+
 

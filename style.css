@@ -1,5 +1,6 @@
 img[src*='#left'] {
     float: left;
+
 }
 img[src*='#right'] {
     float: right;
@@ -12,4 +13,5 @@ img[src*='#center'] {
 div{
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
